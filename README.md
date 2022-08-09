@@ -13,3 +13,4 @@ Resultados de las actividades del curso:
 - https://github.com/ppgarcia05
 - https://github.com/dcarrillor
 - https://github.com/JackieSalomon
+- https://github.com/isaachdez10
