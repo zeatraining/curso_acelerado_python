@@ -7,7 +7,7 @@ Resultados de las actividades del curso:
 - Repositorio participante Uno [Participante Uno](https://github.com/ulinjr).
 - https://github.com/gabrielalpitvh
 - https://github.com/jcolladogh66
-- https:/github.com/jromerocastro
+- https://github.com/jromerocastro
 - https://github.com/TereJb
 - https://github.com/mvergel77
 - https://github.com/ppgarcia05
