@@ -2,9 +2,9 @@
 # ejercicios y actividades del curso acelerado de python
 
 Este es material del curso 
-https://github.com/ulinjr
+Este sitio se construyó usando [GitHub Pages](https://github.com/ulinjr).
 https://github.com/gabrielalpitvh
-https:/github.com/jcolladogh66
+https://github.com/jcolladogh66
 https:/github.com/jromerocastro
 https://github.com/TereJb
 https://github.com/mvergel77
