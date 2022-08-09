@@ -1,8 +1,11 @@
-# curso_acelerado_python
-# ejercicios y actividades del curso acelerado de python
+# Curso acelerado en Python
 
-Este es material del curso 
-Este sitio se construyó usando [GitHub Pages](https://github.com/ulinjr).
+![Esta es una imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)
+
+Resultados de las actividades del curso:
+
+Repositorio participante Uno [Participante Uno](https://github.com/ulinjr).
+
 https://github.com/gabrielalpitvh
 https://github.com/jcolladogh66
 https:/github.com/jromerocastro
