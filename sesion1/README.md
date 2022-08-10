@@ -7,7 +7,7 @@ Listado de ejercicios
 
 Descripción: imprime hola mundo
 
-```javascript
+```python
 nombre_estado = 'Tabasco'
 superficie = 25267
 poblacion_total = 2403000000
