@@ -5,7 +5,7 @@
 </p>
 Resultados de las actividades del curso:
 
-[Sesion Uno](/curso_acelerado_python/sesion1/README.md)
+[Sesion Uno](/sesion1/README.md)
 
 - [Participante Uno](https://github.com/ulinjr).
 - https://github.com/gabrielalpitvh
