@@ -7,7 +7,7 @@ Listado de ejercicios
 
 Descripción: imprime hola mundo
 
-      '''
+   ''''''
       *********** Curso de programación acelerada en Python ************
       Date 04-08-2022
       File: sesion/ejercicio1.py
@@ -22,5 +22,6 @@ Descripción: imprime hola mundo
       print(nombre_estado, " es un estado que ", )
       print("con ",estados_cercanos[0], "colinda al sur", "y")
       print("Tiene una superficie de ", superficie)
+      '''
 
 
