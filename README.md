@@ -1,7 +1,7 @@
 # Curso acelerado en Python
 
 ![Esta es una imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png|width=100px)
-
+<img src="[https://your-image-url.type](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png)" width="300">
 Resultados de las actividades del curso:
 
 - Repositorio participante Uno [Participante Uno](https://github.com/ulinjr).
