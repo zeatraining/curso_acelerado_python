@@ -1,6 +1,6 @@
 # Curso acelerado en Python
 
-![Esta es una imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png) {:height="36px" width="36px"} 
+![Esta es una imagen](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png | width=100) 
 
 Resultados de las actividades del curso:
 
