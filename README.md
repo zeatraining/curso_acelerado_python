@@ -6,9 +6,6 @@
 
 Resultados de las actividades del curso:
 
-- participante | repositorio
-- Juan Ulin    | Repositorio participante Uno [Participante Uno](https://github.com/ulinjr).
-
 - Repositorio participante Uno [Participante Uno](https://github.com/ulinjr).
 - https://github.com/gabrielalpitvh
 - https://github.com/jcolladogh66
