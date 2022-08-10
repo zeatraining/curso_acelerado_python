@@ -7,7 +7,7 @@ Resultados de las actividades del curso:
 
 [Sesion Uno](/sesion1/README.md)
 
-- [Participante Uno](https://github.com/ulinjr).
+- https://github.com/ulinjr
 - https://github.com/gabrielalpitvh
 - https://github.com/jcolladogh66
 - https://github.com/jromerocastro
