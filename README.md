@@ -6,6 +6,7 @@
 
 ## Resultados de las actividades del curso:
 
+- https://github.com/magoitvh
 - https://github.com/ulinjr
 - https://github.com/gabrielalpitvh
 - https://github.com/jcolladogh66
