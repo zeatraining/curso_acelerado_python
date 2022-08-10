@@ -5,8 +5,6 @@
 </p>
 Resultados de las actividades del curso:
 
-[Sesion Uno](/sesion1/README.md)
-
 - https://github.com/ulinjr
 - https://github.com/gabrielalpitvh
 - https://github.com/jcolladogh66
@@ -17,3 +15,6 @@ Resultados de las actividades del curso:
 - https://github.com/dcarrillor
 - https://github.com/JackieSalomon
 - https://github.com/isaachdez10
+
+Ejercicios realizados por sesión de clases:
+[Sesion Uno](/sesion1/README.md)
