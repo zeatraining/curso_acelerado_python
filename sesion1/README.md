@@ -7,7 +7,8 @@ Listado de ejercicios
 
 Descripción: imprime hola mundo
 
-   ''''''
+   '''python
+      '''
       *********** Curso de programación acelerada en Python ************
       Date 04-08-2022
       File: sesion/ejercicio1.py
