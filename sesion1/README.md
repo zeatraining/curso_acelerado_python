@@ -7,14 +7,7 @@ Listado de ejercicios
 
 Descripción: imprime hola mundo
 
-   '''python
-      '''
-      *********** Curso de programación acelerada en Python ************
-      Date 04-08-2022
-      File: sesion/ejercicio1.py
-      Autor: Programador x
-      Action: asignación de variables
-      '''
+      '''python
       nombre_estado = 'Tabasco'
       superficie = 25267
       poblacion_total = 2403000000
