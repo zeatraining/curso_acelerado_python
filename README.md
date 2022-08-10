@@ -17,4 +17,5 @@ Resultados de las actividades del curso:
 - https://github.com/isaachdez10
 
 Ejercicios realizados por sesión de clases:
+
 [Sesion Uno](/sesion1/README.md)
